@@ -1,0 +1,5 @@
+ErrorDocument 404 /enjiner/error/404.html
+ErrorDocument 403 /enjiner/error/403.html
+
+Options -Indexes
+DirectoryIndex index.php index.html index.htm
